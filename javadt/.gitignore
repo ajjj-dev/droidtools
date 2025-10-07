@@ -1,0 +1,9 @@
+/build
+
+# Ignore tests
+app/src/test/
+app/src/androidTest/
+
+# Ignore Android Studio project settings
+.idea/
+*.iml

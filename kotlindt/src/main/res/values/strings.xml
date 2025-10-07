@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotlinDT</string>
+    <string name="hello_world_this_is_kotlin_dt">Hello World! This is Kotlin DT</string>
+</resources>

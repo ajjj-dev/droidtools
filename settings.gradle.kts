@@ -21,4 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "DroidTools"
 include(":app")
- 
+include(":javadt")
+include(":kotlindt")

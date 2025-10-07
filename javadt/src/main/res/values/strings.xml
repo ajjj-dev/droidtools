@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JavaDT</string>
+    <string name="hello_world_this_is_java_dt">Hello World! This is Java DT</string>
+</resources>
